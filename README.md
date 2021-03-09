@@ -1,5 +1,5 @@
 <p align="center"><img src="preview.jpg?v=3" /></p>
-<h1 align="center">language-dk</h1>
+<h1 align="center">language-da</h1>
 <p align="center">Danish translations for WonderCMS (by Michael Vorre)</p>
 
 <br><br>
